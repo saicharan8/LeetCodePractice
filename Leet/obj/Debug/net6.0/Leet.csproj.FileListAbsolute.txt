@@ -1,0 +1,15 @@
+C:\Users\yadav\source\repos\Leet\Leet\bin\Debug\net6.0\Leet.exe
+C:\Users\yadav\source\repos\Leet\Leet\bin\Debug\net6.0\Leet.deps.json
+C:\Users\yadav\source\repos\Leet\Leet\bin\Debug\net6.0\Leet.runtimeconfig.json
+C:\Users\yadav\source\repos\Leet\Leet\bin\Debug\net6.0\Leet.dll
+C:\Users\yadav\source\repos\Leet\Leet\bin\Debug\net6.0\Leet.pdb
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.csproj.AssemblyReference.cache
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.AssemblyInfoInputs.cache
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.AssemblyInfo.cs
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.csproj.CoreCompileInputs.cache
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.dll
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\refint\Leet.dll
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.pdb
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\Leet.genruntimeconfig.cache
+C:\Users\yadav\source\repos\Leet\Leet\obj\Debug\net6.0\ref\Leet.dll
